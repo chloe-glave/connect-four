@@ -1,5 +1,8 @@
 /// @description Static piece script
 
+// testing repository changes
+
+
 #region Check which piece this is
 
 name = object_get_name(object_index);
