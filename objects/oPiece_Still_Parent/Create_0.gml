@@ -1,7 +1,5 @@
 /// @description Static piece script
 
-// testing repository changes ffffffffffffffffffffffffffffffffffffffffffffffffffffff
-
 
 #region Check which piece this is
 
